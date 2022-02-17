@@ -35,3 +35,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sirmacr0&show_icons=true&theme=dark&locale=en&count_private=true" alt="sirmacr0" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sirmacr0&theme=dark" alt="sirmacr0" /></p>
+
+![snake gif](https://github.com/SirMacr0/SirMacr0/blob/output/github-contribution-grid-snake.gif)
