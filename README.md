@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/bentuna_rar" target="blank"><img src="https://img.shields.io/twitter/follow/bentuna_rar?logo=twitter&style=for-the-badge" alt="bentuna_rar" /></a> </p>
 
-- 🔭 I’m currently working on app called **adambul**
+- 🔭 I’m currently working on app called **followme**
 
-- 🌱 I’m currently learning **MEVN Stack and flutter**
+- 🌱 I’m currently learning **Flutter and Firebase**
 
-- 💬 Ask me about **PHP, HTML, CSS, Basic JS, Bootstrap, Unity 3D and C#**
+- 💬 Ask me about **PHP, HTML, CSS, Basic JS, Flutter, Bootstrap, Unity 3D and C#**
 
 - 📫 How to reach me **tunagunduz03@gmail.com**
 
