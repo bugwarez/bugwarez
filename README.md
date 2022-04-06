@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tuna</h1>
+<h1 align="center">Hi 👋🏻, I'm Tuna</h1>
 <h3 align="center">A passionate developer from Turkey</h3>
 
 <p align="left"> <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="400" height="250"/> </p>
