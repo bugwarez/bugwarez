@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Flutter and Firebase**
 
-- 💬 Ask me about **PHP, HTML, CSS, Basic JS, Flutter, Bootstrap, Unity 3D and C#**
+- 💬 Ask me about **PHP, HTML, CSS, JS, Vue, Flutter, Bootstrap, Unity 3D and C#**
 
 - 📫 How to reach me **tunagunduz03@gmail.com**
 
