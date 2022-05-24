@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/bentuna_rar" target="blank"><img src="https://img.shields.io/twitter/follow/bentuna_rar?logo=twitter&style=for-the-badge" alt="bentuna_rar" /></a> </p>
 
-- 🔭 I’m currently working on app called **followme**
+- 🔭 I’m currently working on app called **adambul**
 
-- 🌱 I’m currently learning **Flutter and Firebase**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 💬 Ask me about **PHP, HTML, CSS, JS, Vue, Flutter, Bootstrap, Unity 3D and C#**
 
