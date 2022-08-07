@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **PHP, HTML, CSS, JS, Vue, Flutter, Bootstrap, Unity 3D and C#**
+- 💬 Ask me about **PHP, HTML, CSS, JS, React, Material UI, Flutter, Bootstrap, Unity 3D and C#**
 
 - 📫 How to reach me **tunagunduz03@gmail.com**
 
