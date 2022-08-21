@@ -33,6 +33,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sirmacr0&show_icons=true&theme=blue-green&locale=en&count_private=true" alt="sirmacr0" /></p><br>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sirmacr0&theme=blue-green" alt="sirmacr0" /></p><br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sirmacr0&show_icons=true&theme=blue-green&locale=en&layout=compact" alt="sirmacr0" /></p>
-<p>[![sirmacr0's github activity graph](https://activity-graph.herokuapp.com/graph?username=sirmacr0)](https://github.com/ashutosh00710/github-readme-activity-graph)</p>
+<a href="https://github.com/SirMacr0"><img alt="SirMacr0 CONTRIBUTION' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SirMacr0&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> <br>
 
 
