@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **PHP, HTML, CSS, JS, React, Material UI, Flutter, Bootstrap, Unity 3D and C#**
 
-- 📫 How to reach me **tunagunduz03@gmail.com**
+- 📫 How to reach me **apply.tuna@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
