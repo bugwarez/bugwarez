@@ -16,16 +16,14 @@
 
 - 🔭 I’m currently working on app called **adambul**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Golang**
 
-- 💬 Ask me about **PHP, HTML, CSS, JS, React, Material UI, Flutter, Bootstrap, Unity 3D and C#**
+- 💬 Ask me about **PHP, HTML, CSS, JS, React, Material UI, Flutter, Bootstrap, Unity and C#**
 
 - 📫 How to reach me **apply.tuna@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/07tnhn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="07tnhn" height="30" width="40" /></a>
-<a href="https://dev.to/sirmacr0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sirmacr0" height="30" width="40" /></a>
 <a href="https://twitter.com/bentuna_rar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bentuna_rar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tunahangunduz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tunahangunduz" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13404096" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13404096" height="30" width="40" /></a>
