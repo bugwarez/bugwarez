@@ -14,8 +14,6 @@
 
 <p align="left"> <a href="https://twitter.com/bentuna_rar" target="blank"><img src="https://img.shields.io/twitter/follow/bentuna_rar?logo=twitter&style=for-the-badge" alt="bentuna_rar" /></a> </p>
 
-- 🔭 I’m currently working on app called **adambul**
-
 - 🌱 I’m currently learning **Golang**
 
 - 💬 Ask me about **PHP, HTML, CSS, JS, React, Material UI, Flutter, Bootstrap, Unity and C#**
