@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋🏻, I'm Tuna</h1>
 <h3 align="center">A passionate developer from Turkey</h3>
 
+<h3 align="center">Here is some of my projects</h3>
+<p align="left"> <a href="https://bugware.dev/"></a>https://bugware.dev/ (Blog for developers)</p>
+<p align="left"> <a href="https://leonhijyen.com.tr/"></a>https://leonhijyen.com.tr/ (E-commerce website built with Laravel)</p>
+<p align="left"> <a href="https://terapilog.com/"></a>https://terapilog.com/ (A web platform for therapists to create profile)</p>
+
 <p align="left"> <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="400" height="250"/> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sirmacr0&label=Profile%20views&color=0e75b6&style=flat" alt="sirmacr0" /> </p>
