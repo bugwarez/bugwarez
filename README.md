@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from Turkey</h3>
 
 <h3 align="center">Here is some of my projects</h3>
-<p align="left"> <a href="https://bugware.dev/"></a>https://bugware.dev/ (Blog for developers)</p>
+<p align="left"> <a href="https://bugware.dev/"></a>https://bugware.dev/</p>
 <p align="left"> <a href="https://leonhijyen.com.tr/"></a>https://leonhijyen.com.tr/ (E-commerce website built with Laravel)</p>
 <p align="left"> <a href="https://terapilog.com/"></a>https://terapilog.com/ (A web platform for therapists to create profile)</p>
 
