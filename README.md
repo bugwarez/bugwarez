@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋🏻, I'm Tuna</h1>
-<h3 align="center">A passionate developer from Turkey</h3>
-
+<h3 align="center">Passionate developer from Turkey</h3>
+<h3 align="center"><a href="https://bugwarez.github.io/#/">My Portfolio</a>
 <h3 align="center">Here is some of my projects</h3>
 <p align="left"> <a href="https://salvadordai.com/"></a>https://salvadordai.com/</p>
 <p align="left"> <a href="https://bugware.dev/"></a>https://bugware.dev/</p>
