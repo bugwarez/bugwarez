@@ -13,8 +13,6 @@
 
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=bugwarez&theme=onedark" alt="bugwarez" /></p>
 
-<p align="left"> <a href="https://twitter.com/bentuna_rar" target="blank"><img src="https://img.shields.io/twitter/follow/bentuna_rar?logo=twitter&style=for-the-badge" alt="bentuna_rar" /></a> </p>
-
 - 🌱 I’m currently learning **Golang**
 
 - 💬 Ask me about **PHP, HTML, CSS, JS, React, Material UI, Flutter, Bootstrap, Unity and C#**
@@ -23,7 +21,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/bentuna_rar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bentuna_rar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tunahangunduz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tunahangunduz" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13404096" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13404096" height="30" width="40" /></a>
 <a href="https://instagram.com/yazamayan_yazilimci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yazamayan_yazilimci" height="30" width="40" /></a>
