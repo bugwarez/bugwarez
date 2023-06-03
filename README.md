@@ -13,7 +13,7 @@
 
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=bugwarez&theme=onedark" alt="bugwarez" /></p>
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **Rust(I USE RUST BTW)**
 
 - 💬 Ask me about **PHP, HTML, CSS, JS, React, Material UI, Flutter, Bootstrap, Unity and C#**
 
