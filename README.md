@@ -13,9 +13,9 @@
 
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=bugwarez&theme=onedark" alt="bugwarez" /></p>
 
-- 🌱 I’m currently learning **Rust(I USE RUST BTW)**
+- 🌱 I’m currently learning **Go**
 
-- 💬 Ask me about **PHP, HTML, CSS, JS, React, Material UI, Flutter, Bootstrap, Unity and C#**
+- 💬 Ask me about **PHP, HTML, CSS, JS, React,, Nextjs, Redux, Material UI, Flutter, Bootstrap, Unity and C#**
 
 - 📫 How to reach me **apply.tuna@gmail.com**
 
