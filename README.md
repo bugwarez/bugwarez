@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋🏻, I'm Tuna</h1>
 <h3 align="center">Passionate developer from Turkey</h3>
 <h3 align="center"><a href="https://bugwarez.github.io/#/">My Portfolio</a>
-<h3 align="center">Here is some of my projects</h3>
-<p align="left"> <a href="https://salvadordai.com/"></a>https://salvadordai.com/</p>
-<p align="left"> <a href="https://bugware.dev/"></a>https://bugware.dev/</p>
-<p align="left"> <a href="https://leonhijyen.com.tr/"></a>https://leonhijyen.com.tr/ (E-commerce website built with Laravel)</p>
-<p align="left"> <a href="https://terapilog.com/"></a>https://terapilog.com/ (A web platform for therapists to create profile)</p>
+<h3 align="center">Here is my Real-world projects</h3>
+<p align="left"> <a href="https://www.adambul.net/"></a>adambul.net/</p>
 
 <p align="left"> <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="400" height="250"/> </p>
 
