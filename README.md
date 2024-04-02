@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋🏻, I'm Tuna</h1>
 <h3 align="center">Passionate developer from Turkey</h3>
 <h3 align="center"><a href="https://bugwarez.github.io/#/">My Portfolio</a>
-<h3 align="center">Here is my Real-world projects</h3>
-<p align="left"> <a href="https://www.adambul.net/"></a>adambul.net/</p>
 
 <p align="left"> <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="400" height="250"/> </p>
 
@@ -12,7 +10,7 @@
 
 - 🌱 I’m currently learning **Go**
 
-- 💬 Ask me about **PHP, HTML, CSS, JS, React,, Nextjs, Redux, Material UI, Flutter, Bootstrap, Unity and C#**
+- 💬 Ask me about **PHP, HTML, CSS, JS, React, Nextjs, Redux, PostgreSQL, Prisma ORM, Material UI, Flutter, Bootstrap, Unity and C#**
 
 - 📫 How to reach me **apply.tuna@gmail.com**
 
