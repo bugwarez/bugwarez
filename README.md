@@ -31,9 +31,6 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=bugwarez&show_icons=true&theme=blue-green&locale=en&count_private=true" alt="bugwarez" /></p><br>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=bugwarez&show_icons=true&theme=blue-green&locale=en&layout=compact" alt="bugwarez" /></p><br>
-
 
 
 
